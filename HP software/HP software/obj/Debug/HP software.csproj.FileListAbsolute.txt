@@ -1,0 +1,35 @@
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Debug\HP software.exe.config
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Debug\HP software.exe
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Debug\HP software.pdb
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Debug\MetroFramework.Design.dll
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Debug\MetroFramework.dll
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\obj\Debug\HP software.csproj.SuggestedBindingRedirects.cache
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\obj\Debug\HP_software.Form1.resources
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\obj\Debug\HP_software.Properties.Resources.resources
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\obj\Debug\HP software.csproj.GenerateResource.cache
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\obj\Debug\HP software.csproj.CoreCompileInputs.cache
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\obj\Debug\HP software.csproj.CopyComplete
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\obj\Debug\HP software.exe
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\obj\Debug\HP software.pdb
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Debug\MetroSet UI.dll
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\obj\Debug\HP software.csproj.AssemblyReference.cache
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Debug\System.Buffers.dll
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Debug\System.Memory.dll
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Debug\System.Text.Json.dll
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Debug\System.ValueTuple.dll
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Debug\System.Buffers.xml
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Debug\System.Memory.xml
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Debug\System.Text.Json.xml
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Debug\System.ValueTuple.xml
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Debug\HZH_Controls.dll

@@ -1,0 +1,35 @@
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Release\HP software.exe.config
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Release\HP software.exe
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Release\HP software.pdb
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Release\HZH_Controls.dll
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Release\MetroFramework.Design.dll
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Release\MetroFramework.dll
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Release\MetroFramework.Fonts.dll
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Release\MetroSet UI.dll
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Release\System.Buffers.dll
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Release\System.Memory.dll
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Release\System.Numerics.Vectors.dll
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Release\System.Text.Json.dll
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Release\System.ValueTuple.dll
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Release\System.Buffers.xml
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Release\System.Memory.xml
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Release\System.Numerics.Vectors.xml
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Release\System.Text.Json.xml
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\bin\Release\System.ValueTuple.xml
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\obj\Release\HP software.csproj.AssemblyReference.cache
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\obj\Release\HP software.csproj.SuggestedBindingRedirects.cache
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\obj\Release\HP_software.Form1.resources
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\obj\Release\HP_software.Properties.Resources.resources
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\obj\Release\HP software.csproj.GenerateResource.cache
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\obj\Release\HP software.csproj.CoreCompileInputs.cache
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\obj\Release\HP software.csproj.CopyComplete
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\obj\Release\HP software.exe
+C:\Users\quyzz\Desktop\c#project_hb_hydropower\HP software\HP software\obj\Release\HP software.pdb
